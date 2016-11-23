@@ -1,0 +1,13 @@
+{
+  "name": "Angular",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Tushar",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "1.5.8",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
